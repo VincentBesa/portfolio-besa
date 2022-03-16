@@ -1,0 +1,104 @@
+
+/* Global */
+
+* {
+font-family: 'Fira Sans', sans-serif;}
+
+html {
+	scroll-behavior: smooth;
+}
+
+#body{
+	background-color: #white;
+}
+
+.h2-header {
+
+	letter-spacing: 5px;
+	background-color: #263238;
+
+}
+
+/* -- */
+
+
+/* Main */
+
+#main1 {
+	
+	background-image: url(https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+#myname{
+  letter-spacing: 3px;
+}
+
+#position{
+  letter-spacing: 3px;
+}
+
+.jumbotron {
+	background-color: rgba(0, 0, 0, .20);
+}
+
+/* -- */
+
+
+
+/* About */
+
+#about > div > #jru-div {
+	
+background-image: url(https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.6435-9/34046818_859755187541665_2845351228701933568_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_ohc=WLweNS97SxkAX9S3JaR&tn=6Ib5qxT2Wd59au_V&_nc_ht=scontent.fmnl4-6.fna&oh=00_AT_NT31GwH366Q-LBNtLGxvLspytEpsc-NGJ1lkn9jKYCA&oe=6257C290);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#about > div > #zuitt-div {
+
+	background-image: url(https://images.pexels.com/photos/1714205/pexels-photo-1714205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);*/
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/* -- */
+
+
+
+/* Tools */
+
+#tools > div > img{
+
+	max-height: 80px;
+
+}
+
+.fa-icons {
+	font-size: 1.5rem;
+}
+
+/* -- */
+
+
+
+/* Contact */
+
+#gmap_canvas {
+	height: 50vh;
+	width: 100%;
+}
+
+/* -- */
+
+
+
+/* Footer */
+
+#footer{
+	background-color: #263238;
+}
+
+/* -- */
