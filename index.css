@@ -8,8 +8,12 @@ html {
 	scroll-behavior: smooth;
 }
 
+nav {
+ background-color: #263238;
+}
+
 #body{
-	background-color: #white;
+	background-color: white;
 }
 
 .h2-header {
@@ -17,6 +21,11 @@ html {
 	letter-spacing: 5px;
 	background-color: #263238;
 
+}
+
+.jumbotron {
+
+	background-color: rgba(0, 0, 0, .30);
 }
 
 /* -- */
@@ -40,9 +49,18 @@ html {
   letter-spacing: 3px;
 }
 
-.jumbotron {
-	background-color: rgba(0, 0, 0, .20);
-}
+#projects-btn {
+
+	width:45%;
+
+	}
+	
+#about-btn {
+
+	width:45%;
+
+	}
+
 
 /* -- */
 
@@ -63,6 +81,11 @@ background-image: url(https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.6435-9/3404681
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+#about > #zuitt-pic {
+	max-height: 500px;
+}
+
 
 /* -- */
 
